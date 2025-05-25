@@ -83,6 +83,7 @@ export const Navbar = () => {
                     </a>
                   ))}
                   <a
+                  href="/login"
                     rel="noreferrer noopener"
                     className={`w-[110px] border ${buttonVariants({
                       variant: "secondary",
